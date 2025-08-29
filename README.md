@@ -55,6 +55,5 @@
 ---
 
 ### 📫 Let's Connect
-- **Email**: your.email@example.com  
-- **LinkedIn**: [Your LinkedIn URL]  
-- **Portfolio**: [Your Website or GitHub Pages]  
+- **Email**: kartikdhunna06@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/kartik-dhunna-93432a203
