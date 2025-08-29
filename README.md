@@ -45,15 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARTIKDHUNNA0&show_icons=true&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KARTIKDHUNNA0&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKDHUNNA0&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 - **Email**: kartikdhunna06@gmail.com  
 - **LinkedIn**: https://www.linkedin.com/in/kartik-dhunna-93432a203
