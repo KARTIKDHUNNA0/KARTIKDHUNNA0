@@ -1,6 +1,6 @@
 # Hi there, I'm Kartik Dhunna (KARTIKDHUNNA0) 👋
 
-**Machine Learning & Deep Learning Enthusiast** — I believe in learning by doing, so everything I learn, I implement in code.
+** AI Machine Learning & Deep Learning Enthusiast ** — I believe in learning by doing, so everything I learn, I implement in code.
 
 ---
 
