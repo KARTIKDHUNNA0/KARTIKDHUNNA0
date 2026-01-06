@@ -1,50 +1,96 @@
-# Hi there, I'm Kartik Dhunna (KARTIKDHUNNA0) 👋
+# Hi, I'm Kartik Dhunna 👋  
 
-** AI Machine Learning & Deep Learning Enthusiast ** — I believe in learning by doing, so everything I learn, I implement in code.
-
----
-
-### 💻 About Me
-- Implementing core ML algorithms (Linear Regression, Naive Bayes, Decision Trees, SVMs) from scratch.
-- Skilled in **Deep Learning** with PyTorch (CNNs, RNNs, Transformers).
-- Focused on building a strong foundation in AI/ML by coding concepts from the ground up.
+**AI / Machine Learning / Deep Learning Learner**  
+I believe in learning by building — most of what I study, I try to implement in code to understand it deeply.
 
 ---
 
-### 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 👨‍💻 About Me
+- Interested in **Machine Learning, Deep Learning, NLP, and MLOps fundamentals**.
+- I focus on **understanding concepts from the ground up**, not just using libraries.
+- Comfortable experimenting with **PyTorch, ML pipelines, and workflow orchestration tools**.
+- Still learning, still improving — and documenting everything I build.
 
 ---
 
-### ⭐ Featured Projects
-- **linear-regression-code-scratch** – Implementation of Linear Regression from scratch.
-- **Naive-Bayes-Scratch-Implementation** – Text classification algorithm coded by me.
-- **Decision-Tree-from-Scratch** – A step-by-step Decision Tree builder.
-- **Implementing-SVM-from-Scratch-in-Python** – Building Support Vector Machines without libraries.
+## 🧠 What I Work On
+- Implementing **core ML algorithms from scratch** to understand the math and logic.
+- Building **learning-focused deep learning models** using PyTorch.
+- Exploring **practical ML workflows** such as experiment tracking, orchestration, and reproducibility.
+- Experimenting with **AI agents and LLM-based systems** at a beginner-to-intermediate level.
 
 ---
 
-### 📘 Currently Exploring
-- Advanced Deep Learning architectures (Transformers, Attention Mechanisms).
-- Optimization techniques for training ML/DL models.
+## 🛠️ Skills & Tools
+- **Languages:** Python, C  
+- **Machine Learning:** Regression, Classification, Naive Bayes, Logistic Regression, scikit-learn  
+- **Deep Learning & NLP:** PyTorch (basic), CNNs, Transformers (learning-focused)  
+- **MLOps & Workflow:** Prefect (basic), DVC, GitHub Actions (basic exposure)  
+- **APIs & Agents:** FastAPI (basic), LangGraph  
+- **Data Analysis:** NumPy, Pandas, Matplotlib  
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, Kaggle  
 
 ---
 
-### 🎯 Future Goals
-- Contribute to open-source ML/DL projects.
-- Build a strong portfolio of practical AI applications.
-- Collaborate on exciting projects and internships.
+## ⭐ Featured Projects
+
+### 🔹 Machine Learning From Scratch
+- **Linear Regression from Scratch**  
+  Implemented linear regression without ML libraries to understand optimization and loss functions.
+
+- **Naive Bayes from Scratch**  
+  Built a probabilistic text classifier using custom likelihood and prior calculations.
+
+- **Decision Tree from Scratch**  
+  Implemented a decision tree step by step to understand splits and information gain.
+
+- **Support Vector Machine (SVM) from Scratch**  
+  Basic Python implementation to explore margins and optimization concepts.
 
 ---
 
-### 📫 Let's Connect
-- **Email**: kartikdhunna06@gmail.com  
-- **LinkedIn**: https://www.linkedin.com/in/kartik-dhunna-93432a203
+### 🔹 MLOps & Applied Machine Learning
+- **Credit Risk MLOps Pipeline (Learning Project)**  
+  - Built an end-to-end ML pipeline to understand real-world ML workflows.  
+  - Used **DVC** for dataset and experiment versioning.  
+  - Orchestrated training and evaluation using **Prefect (basic exposure)**.  
+  - Explored lightweight inference using **FastAPI**.  
+  > Focused on learning reproducibility and ML lifecycle management.
+
+- **Instacart Market Basket Analysis**  
+  - Worked with large transactional datasets to analyze consumer purchasing behavior.  
+  - Performed data cleaning, feature engineering, and model training.  
+  - Evaluated models using **Kaggle metrics**.
+
+---
+
+### 🔹 AI Agents & LLM Experiments
+- **AI Agent System (LangGraph & Gemini API)**  
+  - Built a learning-focused multi-agent system using **LangGraph**.  
+  - Implemented basic state handling and agent coordination.  
+  - Integrated **Gemini API** for real-time response generation.  
+  > Project focused on understanding agent workflows rather than production deployment.
+
+---
+
+## 📘 Currently Learning
+- Transformers and attention mechanisms (conceptual + hands-on).
+- Improving PyTorch training workflows.
+- Better experiment tracking and reproducible ML setups.
+- Strengthening understanding of optimization and loss functions.
+
+---
+
+## 🎯 Goals
+- Build a strong foundation in AI/ML through consistent practice.
+- Create well-documented, meaningful learning projects.
+- Gain real-world exposure through internships and collaborative work.
+- Contribute to open-source projects as my skills improve.
+
+---
+
+## 📫 Connect With Me
+- **Email:** kartikdhunna06@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/kartik-dhunna-93432a203  
+
+Thanks for visiting my profile 🙂
